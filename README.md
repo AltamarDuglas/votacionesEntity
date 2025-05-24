@@ -1,3 +1,12 @@
+<p>
+  <h1><strong>👨‍💻 Integrantes del equipo</strong><br></h1>
+  <h3>Duglas Altamar Gómez</h3>
+  <h3>Viveth Segovia Argumedo</h3>
+  <h3>Katherin Tobio Doria</h3>
+  _____________________________________
+
+  <br><br>
+</p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
